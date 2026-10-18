@@ -1,0 +1,9 @@
+Image count: 10
+Image size (height, width): (720, 1280)
+Sobel best: 123_032.jpg
+Sobel best score: 2156.782151
+Laplacian best: 123_032.jpg
+Laplacian best score: 1435.959437
+Sobel mean processing time: 12.943 ms/image
+Laplacian mean processing time: 5.748 ms/image
+Timing: median of 10 runs per image; excludes reading, grayscale conversion, and saving.
